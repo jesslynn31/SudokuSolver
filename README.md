@@ -11,7 +11,8 @@ Here are some examples of the program working:
 ![image](https://github.com/user-attachments/assets/d2169e5d-5e44-4e3c-a49b-2d935dd6beb1)
 
 
-![image](https://github.com/user-attachments/assets/aed7ba80-5e15-4a73-969b-2956bd43be9e)
+![image](https://github.com/user-attachments/assets/399e120e-9ae4-4aa6-a12e-bf74412de0f8)
+
 
 
 
